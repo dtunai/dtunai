@@ -33,7 +33,7 @@ Climbing the k-tech tree with multi-agent AI systems. Proud owner of 10x Agent C
 ## 2026 Projects
 
 - 🧠 **[Mem-RLM](https://github.com/dtunai/mem-rlm)** - memory augmented inference library for Recursive Language Models (RLMs) | Open-Source
-- 💾 **[Agent Skills for Compute](https://github.com/dtunai/agent-skills-for-compute)** - agent-native skills enabling GPU, TPU, QPU accelerated computing for AI coding assistants | Open-Source
+- 💾 **[Agent Skills for Compute](https://github.com/dtunai/agent-skills-for-compute)** - self-improving skill catalog for AI agents — 21 skills covering the full LLM lifecycle, autonomous research, GPU/TPU/QPU kernels, and scientific computing | Open-Source
 - 📄 **[ContextJira](https://github.com/dtunai/contextjira)** - AI-native context extraction from Jira | Open-Source
 
 ## GitHub Activity
@@ -45,7 +45,7 @@ Climbing the k-tech tree with multi-agent AI systems. Proud owner of 10x Agent C
 - [Mem-RLM — Memory-Augmented Inference for Recursive Language Models](https://dtunai.blog/blog/mem-rlm-memory-augmented-inference-for-recursive-language-models)
 - [ContextJira: AI-Native Context Extraction from Jira](https://dtunai.blog/blog/contextjira-ai-native-context-from-jira)
 - [Claude Code-Time Skill Acquisition with Agent Teams](https://dtunai.blog/blog/claude-code-time-skill-acquisition-with-agent-teams)
-- [Teaching Agents Accelerated GPU, TPU, QPU Compute: Open Skill Catalog](https://dtunai.blog/blog/teaching-agents-gpu-tpu-qpu-compute-an-open-skill-catalog)
+- [A Self-Improving Skill Catalog for AI Agents](https://dtunai.blog/blog/teaching-agents-gpu-tpu-qpu-compute-an-open-skill-catalog)
 - [On Compression, Computation and the Space Between](https://dtunai.blog/blog/on-compression-computation-and-the-space-between)
 
 ## Discombobulating, Spelunking, Meandering ...
